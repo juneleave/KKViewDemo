@@ -15,7 +15,6 @@
 		5EEDEDB2233C50C400F7ABDF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EEDEDB1233C50C400F7ABDF /* main.m */; };
 		5EEDEDBC233C50C400F7ABDF /* KKViewDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EEDEDBB233C50C400F7ABDF /* KKViewDemoTests.m */; };
 		5EEDEDC7233C50C400F7ABDF /* KKViewDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EEDEDC6233C50C400F7ABDF /* KKViewDemoUITests.m */; };
-		5EEDEDD6233C50FD00F7ABDF /* KWAlerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EEDEDD5233C50FD00F7ABDF /* KWAlerView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,8 +51,6 @@
 		5EEDEDC2233C50C400F7ABDF /* KKViewDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KKViewDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5EEDEDC6233C50C400F7ABDF /* KKViewDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KKViewDemoUITests.m; sourceTree = "<group>"; };
 		5EEDEDC8233C50C400F7ABDF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5EEDEDD4233C50FD00F7ABDF /* KWAlerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWAlerView.h; sourceTree = "<group>"; };
-		5EEDEDD5233C50FD00F7ABDF /* KWAlerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWAlerView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,8 +105,6 @@
 				5EEDEDA3233C50C400F7ABDF /* AppDelegate.m */,
 				5EEDEDA5233C50C400F7ABDF /* ViewController.h */,
 				5EEDEDA6233C50C400F7ABDF /* ViewController.m */,
-				5EEDEDD4233C50FD00F7ABDF /* KWAlerView.h */,
-				5EEDEDD5233C50FD00F7ABDF /* KWAlerView.m */,
 				5EEDEDA8233C50C400F7ABDF /* Main.storyboard */,
 				5EEDEDAB233C50C400F7ABDF /* Assets.xcassets */,
 				5EEDEDAD233C50C400F7ABDF /* LaunchScreen.storyboard */,
@@ -267,7 +262,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5EEDEDD6233C50FD00F7ABDF /* KWAlerView.m in Sources */,
 				5EEDEDA7233C50C400F7ABDF /* ViewController.m in Sources */,
 				5EEDEDB2233C50C400F7ABDF /* main.m in Sources */,
 				5EEDEDA4233C50C400F7ABDF /* AppDelegate.m in Sources */,

@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // 1.0.0 test
+    // 1.0.0
 }
 
 
